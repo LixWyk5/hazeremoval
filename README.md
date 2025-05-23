@@ -69,12 +69,9 @@ The script will:
 
 ---
 
-## 🧠 Highlights
+## ✉ Contact
 
-- Fully implemented in pure Python with OpenCV and NumPy
-- Uses guided image filtering instead of slow soft matting
-- Parameterized for patch size, regularization, and max haze level
-- Easily extensible to process multiple images
+lixwyk@Outlook.com
 
 ---
 
